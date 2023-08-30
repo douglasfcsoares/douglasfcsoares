@@ -1,7 +1,5 @@
 ## Oi eu sou o Douglas Soares, desenvolvedor web e mobile!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfcsoares&show_icons=true&theme=transparent)
-
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
@@ -16,7 +14,7 @@
   <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
 </div>
 
- ## /
+ ##
  
 <div> 
   <a href="https://instagram.com/douglasfelixdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
