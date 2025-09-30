@@ -39,6 +39,12 @@ I am open to opportunities for collaboration and partnerships in innovative proj
  ###
  <hr/>
  
+
+![Douglas Soares GitHub stats](https://github-readme-stats.vercel.app/api?douglasfcsoares=anuraghazra&show_icons=true&theme=radical)
+
+ ###
+ <hr/>
+
 <div> 
   <a href="https://instagram.com/douglasfelixdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:douglasfcsoares@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
