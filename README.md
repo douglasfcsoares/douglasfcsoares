@@ -40,7 +40,7 @@ I am open to opportunities for collaboration and partnerships in innovative proj
  <hr/>
  
 
-![Douglas Soares GitHub stats](https://github-readme-stats.vercel.app/api?douglasfcsoares=anuraghazra&show_icons=true&theme=radical)
+![Douglas Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfcsoares&show_icons=true&theme=radical)
 
  ###
  <hr/>
