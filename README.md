@@ -41,7 +41,8 @@ I am open to opportunities for collaboration and partnerships in innovative proj
  
 
 ![Douglas Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasfcsoares&show_icons=true&theme=dark)
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfcsoares&layout=compact&langs_count=7&theme=dark" />
+
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfcsoares&layout=compact&langs_count=7&theme=dark" />
 
  ###
  <hr/>
